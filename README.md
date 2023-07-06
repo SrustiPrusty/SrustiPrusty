@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools:</h2>
+<h2 align="left">🛠   Language and Tools:</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect with me:</h2>
+<h2 align="left">🌐   My Socials:</h2>
 
 ###
 
