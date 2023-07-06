@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center" >👩🏻‍💻   A driven web developer tackling global issues through innovative projects, one solution at a time.</h1>
+<h2 align="center" >👩🏻‍💻   A driven web developer tackling global issues through innovative projects, one solution at a time. </h2>
 
 ###
 
