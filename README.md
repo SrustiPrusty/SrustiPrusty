@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="center" >👩🏻‍💻   A driven web developer tackling global issues through innovative projects, one solution at a time.</h2>
+<h1 align="center" >👩🏻‍💻   A driven web developer tackling global issues through innovative projects, one solution at a time.</h1>
 
 ###
 
-<h3 align="left">🛠 Language and tools:</h3>
+<h2 align="left">🛠 Language and tools:</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">📊   My Stats :</h3>
+<h2 align="left">📊   My Stats :</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h2 align="left">🌐 Connect with me:</h2>
 
 ###
 
