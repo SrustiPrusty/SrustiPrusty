@@ -62,6 +62,6 @@
 
 ###
 
-<h4 align="center"> 📬 Reach out to me at srustiprusty@gmail.com </h4>
+<h3 align="center"> 📬 Reach out to me at srustiprusty@gmail.com </h3>
 
 ###
